@@ -1,0 +1,5 @@
+Alimentos,350
+Transporte,80
+Alimentos,120
+Entretenimiento,500
+Servicios,900
