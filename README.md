@@ -1,4 +1,4 @@
-# Tema 9. Analizador de Gastos Personales.
+# Tema 9. Analizador de gastos personales.
 Programa desarrollado en Java para analizar gastos a partir de un archivo de texto.
 
 ## Funciones:
