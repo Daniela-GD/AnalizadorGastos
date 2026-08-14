@@ -10,7 +10,7 @@ categoría, monto.
 ## ¿Cómo ejecutarlo desde IntelliJ?
 - Abre el proyecto.
 - Asegúrate de tener una gastos.txten la raíz con tus datos.
-- Abre Main.javay ejecútalo con el botón▶️.
+- Abre Main.java y ejecútalo con el botón ▶️.
 
 ## Funciones:
 - Calcula el total gastado.
